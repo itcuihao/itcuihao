@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=itcuihao&theme=buefy&column=7&margin-w=10" alt="logo" height="160" align="center" />
 -->
+
+<!-- Footer -->
+
+
+![Visitor Count](https://profile-counter.glitch.me/itcuihao/count.svg)
